@@ -12,7 +12,7 @@ This project integrates large-scale genomic data processing, statistical filteri
 ## Data Files
 - `tree_nodes.csv`, `taxonomy.csv`, `taxonomy_key.csv` – curated genomic datasets
 - `mammal_tree.nwk` – phylogenetic tree in Newick format
-- `task 8.pdf` – project report
+- `task 8.pdf` – final phylogenetic tree produced
 
 ## Skills & Tools
 - **Languages & Libraries:** Python (pandas, matplotlib, BioPython), R (msa, phangorn)
